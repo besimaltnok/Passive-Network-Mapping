@@ -12,3 +12,11 @@
 ## About
 
 This tool performs an enumarate operation and creates attack vectors by passively listening to wired and wireless networks.
+
+
+## Features of the Tool
+
+- Analysis pcap file
+- Support wifi and LAN traffic
+- Analysis broadcast packets
+- Create attack maps
